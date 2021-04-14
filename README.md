@@ -1,4 +1,10 @@
-### Hi there 👋
+# Here to Collaborate, **Teach**, _Build_, and Learn
+
+## About Me
+
+**TLDR:** Born To Build Stuff!
+
+<img src="https://raw.githubusercontent.com/Jahhein/Jahhein/master/assets/picture6.jpeg">
 
 <!--
 **Jahhein/Jahhein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
